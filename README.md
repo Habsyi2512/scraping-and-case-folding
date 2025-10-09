@@ -12,7 +12,7 @@ Proyek ini merupakan bagian dari penugasan mata kuliah yang berfokus pada teknik
 | **NIM**         | **5220411094**                                                        |
 | **Tugas Wajib** | Scraping data dari internet dan Melakukan **Case Folding** pada teks. |
 | **Topik Data**  | Sentimen publik terhadap kata kunci **"Trump"** dalam bahasa inggris. |
-| **Jumlah Data** | Minimal **"1000"** data.                                              |
+| **Jumlah Data** | Minimal **"1000"** baris data.                                        |
 
 ---
 
