@@ -52,3 +52,13 @@ limit = 2000
 
 !npx -y tweet-harvest@2.6.1 -o "{filename}" -s "{keyword}" --tab "LATEST" -l {limit} --token {twitter_auth_token}
 ```
+
+### 🧾 Perbandingan Sebelum dan Sesudah Cleaning
+
+| full_text                                                                                            | clean_text                                                                                                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| WATCH: Gov. JB Pritzker claims President Trump always chickens out after he called for his arrest... | watch gov jb pritzker claims president trump always chickens out after he called for his arrest weve done nothing wrong here and very importantly its donald trump that is breaching the constitution breaking the law were taking him to court |
+| Trump raised the Bar and the rest ...                                                                | trump raised the bar and the rest                                                                                                                                                                                                               |
+| Sen FETTERMAN votes NO on the War Powers Resolution...                                               | sen fetterman votes no on the war powers resolution that would require congressional approval before the trump admin conducted additional military strikes in the caribbean                                                                     |
+| President Trump Beats Democrats AGAIN - Massive Court Victory...                                     | president trump beats democrats again massive court victory read the full article below                                                                                                                                                         |
+| Trump Announces Israel Hamas PEACE PLAN SIGNED...                                                    | trump announces israel hamas peace plan signed israel to withdraw troops timcast irl                                                                                                                                                            |
