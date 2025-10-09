@@ -6,12 +6,13 @@ Proyek ini merupakan bagian dari penugasan mata kuliah yang berfokus pada teknik
 
 ## 👨‍💻 Informasi Penugasan
 
-| Keterangan      | Detail                                                               |
-| :-------------- | :------------------------------------------------------------------- |
-| **Nama**        | **Muhammad Habsyi Mubarak**                                          |
-| **NIM**         | **5220411094**                                                       |
-| **Tugas Wajib** | Scraping data dari Twitter dan Melakukan **Case Folding** pada teks. |
-| **Topik Data**  | Sentimen publik terhadap kata kunci **"Trump"**.                     |
+| Keterangan      | Detail                                                                |
+| :-------------- | :-------------------------------------------------------------------- |
+| **Nama**        | **Muhammad Habsyi Mubarak**                                           |
+| **NIM**         | **5220411094**                                                        |
+| **Tugas Wajib** | Scraping data dari internet dan Melakukan **Case Folding** pada teks. |
+| **Topik Data**  | Sentimen publik terhadap kata kunci **"Trump"** dalam bahasa inggris. |
+| **Jumlah Data** | Minimal **"1000"** data.                                              |
 
 ---
 
